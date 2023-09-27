@@ -8,7 +8,6 @@ After four years in Jena, I am finally Ph-inally Done! It's Dr. Gamba now~
 
 ---
 
----
 layout: post
 date: 2022-10-23 19:00:00-0000
 inline: true
@@ -16,7 +15,7 @@ inline: true
 
 Version 0.0.1 of my personal website is finally online: hello world! :sparkles:
 
-
+---
 <!-- 
 
 Examples below!
