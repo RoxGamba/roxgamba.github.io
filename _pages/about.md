@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome! I am a Ph.D student at Friedrich Schiller University Jena, working on
-modeling the **gravitational emission** of compact binary coalescences.
+Welcome! I am an incoming N3AS fellow at UC Berkeley and Penn State University working on
+modeling the **gravitational waves** emitted by compact binary coalescences.
 
 On this website you will learn about me and my research:
 * [here](publications) you can find a list of some of my work;
