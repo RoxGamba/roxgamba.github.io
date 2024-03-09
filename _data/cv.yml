@@ -8,6 +8,16 @@
     - name: Languages
       value: English, Italian
 
+- title: Positions
+  type: time_table
+  contents:
+    - title: Visiting Postdoc
+      institution: Penn State University
+      year: 2023 - 2025
+    - title: N3AS Fellow
+      institution: UC Berkeley
+      year: 2023 - 2026
+
 - title: Education
   type: time_table
   contents:
