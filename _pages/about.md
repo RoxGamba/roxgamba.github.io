@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Office 206, Abbeanum</p>
-    <p>TPI, Fröbelstieg 1</p>
-    <p>Jena, Germany 07743</p>
+    <p>305 Whitmore Lab</p>
+    <p>University Park (PA) 16802, USA </p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
