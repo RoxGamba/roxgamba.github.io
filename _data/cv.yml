@@ -39,7 +39,7 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://bitbucket.org/eob_ihes/teobresums/src"> TEOBResumS</a>
+    - title: <a href=""https://teobresums.bitbucket.io/> TEOBResumS</a>
       year: 2019-now
       description: A fast, efficient and accurate gravitational wave model for compact binary coalescences. 
 
