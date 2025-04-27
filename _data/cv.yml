@@ -41,7 +41,10 @@
   contents:
     - title: <a href=""https://teobresums.bitbucket.io/> TEOBResumS</a>
       year: 2019-now
-      description: A fast, efficient and accurate gravitational wave model for compact binary coalescences. 
+      description: A fast, efficient and accurate gravitational wave model for compact binary coalescences.
+    - title: <a href="""https://github.com/RoxGamba/PyART> PyART</a>
+      year: 2024-now
+      description: A Python package for the analysis of gravitational waves from compact binary coalescences.
 
 - title: Academic Interests
   type: nested_list
