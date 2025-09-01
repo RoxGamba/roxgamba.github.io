@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-06-07 19:00:00-0000
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I received the [Rohde-Schwarz](https://www.physik.uni-jena.de/en/252/faculty-awards-rohde-schwarz) faculty prize for best doctoral disseration. A great honor! :)
