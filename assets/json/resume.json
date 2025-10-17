@@ -80,11 +80,7 @@
     {
       "name": "Physics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "General Relativity",
-        "Gravitational Waves",
-        "Neutron Stars",
-      ]
+      "keywords": ["General Relativity", "Gravitational Waves", "Neutron Stars"]
     }
   ],
   "references": [
