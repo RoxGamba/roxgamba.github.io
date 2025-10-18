@@ -23,25 +23,12 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "N3AS fellow",
+      "position": "Postdoctoral Researcher",
+      "startDate": "2023-11-01",
+      "endDate": "Present",
+      "summary": "Postdoctoral researcher at Penn State University and UC Berkeley, working on modeling gravitational wave signals from compact binaries.",
+      "highlights": ["Relativity", "Gravitational Waves", "Numerical Relativity"]
     }
   ],
   "education": [
@@ -57,12 +44,12 @@
   ],
   "awards": [
     {
-      "title": "",
-      "date": " ",
-      "awarder": "",
+      "title": "Rohde & Schwarz PhD Prize in Theoretical Physics",
+      "date": "2024",
+      "awarder": "Rohde & Schwarz Foundation",
       "url": "",
       "summary": "Prize for the best PhD thesis in Theoretical Physics 2023, Friedrich Schiller University Jena"
-    }
+    },
   ],
   "languages": [
     {
@@ -81,21 +68,41 @@
       "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": ["General Relativity", "Gravitational Waves", "Neutron Stars"]
+    },
+    {
+      "name": "Magic the Gathering",
+      "icon": "fa-solid fa-dice",
+      "keywords": ["Commander", "Ragequitting", "Destroying friendships"]
+    },
+    {
+      "name": "Football",
+      "icon": "fa-solid fa-futbol",
+      "keywords": ["Juventus", "Shouting at the TV", "Sadness"]
     }
   ],
   "references": [
     {
       "name": "Prof. Sebastiano Bernuzzi",
-      "icon": "fa-solid fa-laptop",
+      "icon": "fa-solid fa-graduation-cap",
       "reference": ""
     },
     {
       "name": "Dr. Alessandro Nagar",
       "icon": "fa-solid fa-thumbtack",
       "reference": ""
+    },
+    {
+      "name": "Prof. David Radice",
+      "icon": "fa-solid fa-laptop",
+      "reference": ""
+    },
+    {
+      "name": "Prof. Bangalore Sathyaprakash",
+      "icon": "fa-solid fa-book",
+      "reference": ""
     }
   ],
-  "open source projects": [
+  "projects": [
     {
       "name": "teobresums",
       "summary": "Effective-One-Body waveform model for gravitational waves from generic compact binaries.",
