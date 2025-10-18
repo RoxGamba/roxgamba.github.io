@@ -192,6 +192,11 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _posts/2015*
+  - _posts/2018*
+  - _posts/2023*
+  - _posts/2024*
+  - _posts/2025-03*
 keep_files:
   - CNAME
   - .nojekyll
