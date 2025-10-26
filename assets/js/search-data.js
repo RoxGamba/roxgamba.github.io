@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-np3m-k-12-teaching-teachers-about-neutron-stars",
+        },{id: "post-seminar-in-syracuse",
+        
+          title: "Seminar in Syracuse",
+        
+        description: "Seminar in Syracuse about modeling mergers of black holes on generic orbits.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Syracuse/";
+          
+        },
+      },{id: "post-np3m-k-12-teaching-teachers-about-neutron-stars",
         
           title: "NP3M K-12 - Teaching teachers about neutron stars",
         
