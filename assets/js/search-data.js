@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-seminar-in-syracuse",
+        },{id: "post-vibin-39-and-hopinn",
+        
+          title: "Vibin&#39; and HOPINN",
+        
+        description: "A Holiday project, part 1?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/TurkeyVibes/";
+          
+        },
+      },{id: "post-seminar-in-syracuse",
         
           title: "Seminar in Syracuse",
         
