@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-vibin-39-and-hopinn",
+        },{id: "post-einstein-telescope-ecs-workshop",
+        
+          title: "Einstein Telescope ECS Workshop",
+        
+        description: "Talk and panelist at the ET ECS Workshop",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/ET/";
+          
+        },
+      },{id: "post-vibin-39-and-hopinn",
         
           title: "Vibin&#39; and HOPINN",
         
