@@ -6,11 +6,12 @@ subtitle: Gravitational Wave Astronomy, Traveling, Cats. Se sei in ballo, dragod
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: pfp.jpg
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>305 Whitmore Lab</p>
-    <p>University Park (PA) 16802, USA </p>
+    <p>N3AS centre, Physics South </p>
+    <p>Leconte Hall, University of California, Berkeley</p>
+    <p>CA 94720, USA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! I am a N3AS fellow at UC Berkeley and Penn State University working on
+Welcome! I am a N3AS fellow at UC Berkeley working on
 modeling the **gravitational waves** emitted by compact binary coalescences.
 I am the main maintainer of <a href="https://teobresums.bitbucket.io">teobresums</a>,
 an open-source waveform model based on the **effective-one-body formalism**.
