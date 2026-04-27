@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-einstein-telescope-ecs-workshop",
+        },{id: "post-seminar-at-the-university-of-virginia",
+        
+          title: "Seminar at the University of Virginia",
+        
+        description: "Seminar at the University of Virginia about horizon fluxes on non-circularized orbits",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/uva/";
+          
+        },
+      },{id: "post-einstein-telescope-ecs-workshop",
         
           title: "Einstein Telescope ECS Workshop",
         
