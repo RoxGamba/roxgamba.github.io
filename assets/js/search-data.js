@@ -169,6 +169,13 @@ ninja.data = [{
           window.open("https://inspirehep.net/authors/1802033", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/rossella-gamba-3553b83a4", "_blank");
+        },
+      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
