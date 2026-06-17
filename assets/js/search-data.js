@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-seminar-at-the-university-of-virginia",
+        },{id: "post-visit-at-aei",
+        
+          title: "Visit at AEI",
+        
+        description: "Seminar and visit at the Albert Einstein Institute (Potsdam)",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/aei/";
+          
+        },
+      },{id: "post-seminar-at-the-university-of-virginia",
         
           title: "Seminar at the University of Virginia",
         
